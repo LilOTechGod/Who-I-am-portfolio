@@ -9,9 +9,9 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
-const app = () => {
+const App = () => {
   return (
-    <>
+    <div>
       <Header />
       <Nav />
       <About />
@@ -21,8 +21,17 @@ const app = () => {
       <Testimonials />
       <Contact />
       <Footer />
-      </>
+    </div>
   )
 }
 
-export default app
+// function App() {
+//   return (
+//     <div>
+//       <h1>Hello World</h1>
+//     </div>
+//   )
+// };
+
+export default App
+
