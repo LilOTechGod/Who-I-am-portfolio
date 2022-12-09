@@ -22,12 +22,7 @@
 
 ## Future Developments:
 
-1. As for furture developments I would like to create a option button, that allows the user to create comments on an existing post.
-2. Edit the homepage as soon as you open the app to render an image containing the tech blogs logo.
-3. Get the log out button functionality to work properly.
-4. Give the blog a distinctive design.
-
-All of these issues will be applied soon! So stay tuned for the latest version, Thank you for your patience!
+1. As for furture developments I would like to add more 
 
 ## Credits
 
