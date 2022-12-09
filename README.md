@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Who I am portfolio
+*Having a portfolio is a great way of showcasing your experience and best work along with many other values of yours. *.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Story:
 
-## Available Scripts
+**Basically a portfolio is a living and changing collection of records that reflect your accomplishments, skills, experiences, achievements and attributes. I believe providing a portfolio along with my resume is necessary because I understand the importance of setting a good first impression. From a manager's side you need to know if the applicant would be a good fit for the position and if she/he is a teamplayer. Grateful for being intoduced into React because it serves as the front end for lots of companies and organization. Meaning it is best practice to know even the basics! I followd a tutorial to guide me with building a portfolio using react using HTML, CSS JavaScript here and there. This challenge was much harder than it seemed but, has definitely increased my knowledge and got hands on experience using React. **
 
-In the project directory, you can run:
+**This is a deplyed web page**, [click Here to open the app](https://lilotechgod.github.io/Who-I-am-portfolio/)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Usage](#usage)
+- [Future Developments](#future-developments)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
 
-### `npm test`
+## Usage:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Developments:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. As for furture developments I would like to create a option button, that allows the user to create comments on an existing post.
+2. Edit the homepage as soon as you open the app to render an image containing the tech blogs logo.
+3. Get the log out button functionality to work properly.
+4. Give the blog a distinctive design.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+All of these issues will be applied soon! So stay tuned for the latest version, Thank you for your patience!
 
-### `npm run eject`
+## Credits
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+I want to give a shoutout to Leah, my instructor for help making more sense of how models, views, and controllers (MVC) operates and it's importance on how it all connects making the app function properly.
+Also thanks to my tutor Mr. Clements Team work makes the dream work!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+MIT License
 
-## Learn More
+Copyright (c) 2022 Oscar Perez-Hernandez
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Code Splitting
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Badges
 
-### Analyzing the Bundle Size
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/LilOTechGod/E-commerce-back-end/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-### Making a Progressive Web App
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/LilOTechGod/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-### Advanced Configuration
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/Oph3023x#9827/)
 
-### Deployment
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### `npm run build` fails to minify
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)

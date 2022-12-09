@@ -63,14 +63,14 @@ header {
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
     header {
-        height: 138vh;
+        height: 95vh;
 }
 }
 
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 112vh;
 }
     .header__socials,
     .scroll__down {
