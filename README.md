@@ -18,11 +18,15 @@
 
 ## Usage:
 
+![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035129.png)
 
+![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035304.png)
+
+![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035318.png)
 
 ## Future Developments:
 
-1. As for furture developments I would like to add more 
+1. As for furture developments I would like to add my own design, color and structure.
 
 ## Credits
 
