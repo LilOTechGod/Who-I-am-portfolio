@@ -34,6 +34,9 @@
 I want to give a shoutout to Leah, my instructor for help making more sense of how models, views, and controllers (MVC) operates and it's importance on how it all connects making the app function properly.
 Also thanks to my tutor Mr. Clements Team work makes the dream work!
 
+Also for the tutorial video which I followed most of the time 
+https://www.youtube.com/watch?v=G-Cr00UYokU&t=1232s
+
 ## License
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
