@@ -18,11 +18,12 @@
 
 ## Usage:
 
-![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035129.png)
+![Screenshot_20221209_035129](https://user-images.githubusercontent.com/112797175/206803658-1a2c4c72-ff8e-4f8f-941b-3ef81f374210.png)
 
-![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035304.png)
+![Screenshot_20221209_035304](https://user-images.githubusercontent.com/112797175/206803705-af14fa3c-6496-4b19-9a58-796c5a1b5076.png)
 
-![Alt text](../../../../Pictures/Screenshots/Screenshot_20221209_035318.png)
+![Screenshot_20221209_035318](https://user-images.githubusercontent.com/112797175/206803722-20641d4e-8721-49b0-9b09-baedd32c8cf4.png)
+
 
 ## Future Developments:
 
@@ -32,6 +33,9 @@
 
 I want to give a shoutout to Leah, my instructor for help making more sense of how models, views, and controllers (MVC) operates and it's importance on how it all connects making the app function properly.
 Also thanks to my tutor Mr. Clements Team work makes the dream work!
+
+Also for the tutorial video which I followed most of the time 
+https://www.youtube.com/watch?v=G-Cr00UYokU&t=1232s
 
 ## License
 
