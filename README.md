@@ -27,12 +27,12 @@
 
 ## Future Developments:
 
-1. As for furture developments I would like to add my own design, color and structure.
+* keep updating as my journey as a web developer continues!
 
 ## Credits
 
-I want to give a shoutout to Leah, my instructor for help making more sense of how models, views, and controllers (MVC) operates and it's importance on how it all connects making the app function properly.
-Also thanks to my tutor Mr. Clements Team work makes the dream work!
+I want to give a shoutout to Leah and Negin 
+Also thanks to my tutor Mr. Calimbas team work makes the dream work!
 
 Also for the tutorial video which I followed most of the time 
 https://www.youtube.com/watch?v=G-Cr00UYokU&t=1232s

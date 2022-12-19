@@ -7,7 +7,6 @@ export const HeaderSocials = () => {
     <div className='header__socials'>
         <a href="https://www.linkedin.com/in/oscar-perez~hernandez/" target ="_blank"><BsLinkedin/></a>
         <a href="https://github.com/LilOTechGod" target ="_blank"><BsGithub/></a>
-        <a href="https://www.linkedin.com/" target ="_blank"></a>
     </div>
   )
 }
