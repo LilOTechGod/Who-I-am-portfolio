@@ -40,10 +40,10 @@ const About = () => {
           </div>
 
           <p>
-          Passionate and solutions-driven full stack web developer with a full-stack web development certificate in progress from The University Of Texas, Austin. To provide unique perspectives on how end-users interact with websites and software platforms is the goal as a competitive candidate. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.  Experience in 3D design utilizing a combination of strong communication, collaboration, and analytical skills. Strong ability to design, build, and maintain websites from conception to production. Ability to work in a fast-paced and diverse team environment developing solutions and exceeding expectations.
+          Passionate and solutions-driven full stack web developer with a full-stack web development certificate from The University Of Texas, Austin. To provide unique perspectives on how end-users interact with websites and software platforms is the goal as a competitive candidate. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.  Experience in 3D design utilizing a combination of strong communication, collaboration, and analytical skills. Strong ability to design, build, and maintain websites from conception to production. Ability to work in a fast-paced and diverse team environment developing solutions and exceeding expectations.
           </p>
 
-          <a href='#contact' className='btn btn-primary'>Let's Connect</a>
+          <a href='#contact' className='btn btn-primary'>Let's Connect!</a>
         </div>
       </div>
     </section>

@@ -16,6 +16,7 @@
     );
     display:grid;
     place-items: center;
+    height: 370px;
 }
 
 .about__me-image {

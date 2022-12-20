@@ -17,27 +17,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>User Stories</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Wireframes</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Strategy</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Information Architecture</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Brand and Design system development</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Design technology consulting</p>
             </li>
           </ul>
         </article>
@@ -50,27 +50,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Web Design</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Web development support and maintenance</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Web hosting</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Email Marketing</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Web optimization</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Search Engine Optimization</p>
             </li>
           </ul>
         </article>
@@ -83,27 +83,27 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Strategy</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Development</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Creation</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Optimization</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Promotion</p>
             </li>
             <li>
               <BsCardChecklist className='service_list-icon' />
-              <p>JavaScript ES5 - ES6, CSS3, HTML5</p>
+              <p>Content Reporting</p>
             </li>
           </ul>
         </article>
