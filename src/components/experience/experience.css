@@ -5,7 +5,7 @@
 }
 
 .experience__container > div {
-    background: var(--color-bg-variant);
+    background: green;
     padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -13,15 +13,15 @@
 }
 
 .experience__container > div:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
+    background: white;
+    border: 3.5px solid green;
     cursor: default;
+    color: green;
 }
 
 .experience__container > div h3 {
     text-align: center;
-    margin-bottom: 2rem;
-    color: var(--color-primary);
+    margin-bottom: 2rem;   
 }
 
 .experience__content {
@@ -37,7 +37,6 @@
 
 .experience__details-icon {
     margin-top: 6px;
-    color: var(--color-primary);
 }
 
 /*====================== media queries (md devices ==========*/

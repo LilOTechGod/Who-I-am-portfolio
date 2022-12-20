@@ -36,8 +36,8 @@ html {
 body {
     font-family: 'Gemunu Libre', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background: var(--color-bg);
-    color: var(--color-white);
+    background-color: rgb(247, 227, 190);
+    color: green;
     line-height: 1.7;
     /* background-image: url(../src/assets/b7ff7caf28b0716fa23ab7db78b3d122.jpg); */
     /* https://t4.ftcdn.net/jpg/03/29/04/39/360_F_329043934_peAUNOaQRsdSscE3HkwwaRKAmJXDAm4q.jpg */
@@ -56,6 +56,7 @@ h3,
 h4,
 h5{
     font-weight: 500;
+    font-size: 20px;
 }
 
 h1 {
@@ -69,16 +70,12 @@ section {
 section > h2, 
 section > h5 {
     text-align: center;
-    color: var(--color-light);
+    color: rgb(124, 98, 98);
 }
 
 section > h2 {
-    color: var(--color-primary);
+    color: rgb(124, 98, 98);
     margin-bottom: 3rem;
-}
-
-.text-light {
-    color: var(--color-light);
 }
 
 a {
@@ -93,23 +90,22 @@ a:hover {
 .btn {
     width: max-content;
     display: inline-block;
-    color: var(--color-primary);
+    color: green;
     padding: 0.75rem 1.2rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    border: 1px solid var(--color-primary);
+    border: 3.5px solid green;
     transition: var(--tranistion);
 }
 
 .btn:hover {
     background: var(--color-white);
-    color: var(--color-bg);
+    color: green;
     border-color: transparent;
 }
 
 .btn-primary {
-    background: var(--color-primary);
-    color: var(--color-bg);
+    color: green;
 }
 
 img {
@@ -122,10 +118,12 @@ img {
 @media screen and (max-width: 1024px) {
     .container{
         width: var(--container-width-md);
+        font-size: 22px;
     }
 
     section {
         margin-top: 6rem;
+        font-size: 19px;
     }
 };
 

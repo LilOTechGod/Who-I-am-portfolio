@@ -5,7 +5,7 @@ import {BsCardChecklist} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
+      <h1>What I Offer</h1>
       <h2>Services</h2>
 
       <div className='container services_container'>

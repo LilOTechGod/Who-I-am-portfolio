@@ -8,7 +8,7 @@ import IMG4 from '../../assets/Screenshot_20221219_030135.png'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
+      <h1>My Recent Work</h1>
       <h2>Portfolio</h2>
 
       <div className='container portfolio_container'>

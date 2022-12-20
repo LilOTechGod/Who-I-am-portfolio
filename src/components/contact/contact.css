@@ -12,28 +12,34 @@
 }
 
 .contact_option {
-    background: var(--color-bg-variant);
+    background: white;
     padding: 1.2rem;
     border-radius: 1.2rem;
     text-align: center;
-    border: 1px solid transparent;
+    border: 3.5px solid white;
     transition: var(--transition);
 }
 
 .contact_option:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
+    border: 3.5px solid green;
 }
 
 .contact_option-icon {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
+    color: green;
+}
+
+.contact_option-icon 
+h4,
+h5 {
+    color: green;
 }
 
 .contact_option a {
     margin-top: 0.7rem;
     display: inline-block;
-    font-size: 0.8rem;
+    color: green;
 }
  
 /* =================== Form ===================== */

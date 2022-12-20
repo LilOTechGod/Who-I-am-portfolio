@@ -11,7 +11,7 @@
     background: linear-gradient(
         45deg,
         transparent,
-        var(--color-primary),
+        white,
         transparent
     );
     display:grid;
@@ -37,17 +37,17 @@ transform: rotate(0);
 }
 
 .about__card {
-    background: var(--color-bg-variant);
-    border: 1px solid transparent;
+    border: 3.5px solid green;
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
+    color: green;
 }
 
 .about__card:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
+    background: white;
+    border-color: white;
     cursor: default;
 }
 
@@ -62,13 +62,19 @@ transform: rotate(0);
 }
 
 .about__card small {
-    font-size: 0.7rem;
+    font-size: 18px;
     color: var(--color-lite);
 }
 
 .about__content p {
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: rgb(124, 98, 98);
+}
+
+#about 
+h3,
+h1 {
+    color: rgb(124, 98, 98);
 }
 
 /*====================== media queries (md devices ==========*/
@@ -76,27 +82,32 @@ transform: rotate(0);
    .about__container {
     grid-template-columns: 1fr;
     gap: 0;
+    margin-top: 20px;
    }
 
    .about__me {
-    width: 50%;
+    width: 70%;
+    height: 61%;
     margin: 2rem auto 5rem;
    }
 
    .about__content p {
     margin: 1rem 0 1.5rem;
    }
+
+   #about 
+   h3,
+   h1   {
+    text-align: center;
+   }
 }
 
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     .about__me {
-        width: 65%;
+        width: 100%;
         margin: 0 auto 3rem;
-    }
-
-    .about__me-image{
-        height: 350px;
+        height: 68%;
     }
 
     .about__cards {

@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Me from '../../assets/20221119_113103.jpg'
+import Me from '../../assets/me3.img.jpg'
 import {FaAward} from 'react-icons/fa'
 import {AiOutlineUser} from 'react-icons/ai'
 import {FcOpenedFolder} from 'react-icons/fc'
@@ -8,8 +8,8 @@ import {FcOpenedFolder} from 'react-icons/fc'
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get to Know</h5>
-      <h2>About me</h2>
+      <h3>Get to Know</h3>
+      <h1>About me</h1>
 
       <div className="container about__container">
         <div className="about__me">
@@ -22,19 +22,19 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icons'/>
-              <h5>Experience</h5>
+              <h4>Experience</h4>
               <small>4 Months working</small>
             </article>
 
             <article className='about__card'>
               <AiOutlineUser className='about__icons'/>
-              <h5>Clients</h5>
+              <h4>Clients</h4>
               <small>5 local clients</small>
             </article>
 
-            <article className='about__card'>
+            <article className='about__card' id="column">
               <FcOpenedFolder className='about__icons'/>
-              <h5>Projects</h5>
+              <h4>Projects</h4>
               <small>3 completed projects & 16 mini projects</small>
             </article>
           </div>

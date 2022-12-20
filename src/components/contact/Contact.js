@@ -5,6 +5,8 @@ import {AiOutlineMessage} from 'react-icons/ai'
 import {BsGithub} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
+import {FiSend} from 'react-icons/fi'
+import {AiOutlineSend} from 'react-icons/ai'
 
 const Contact = () => {
   const form = useRef();
@@ -19,26 +21,26 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
+      <h1>Get In Touch</h1>
       <h2>Contact Me</h2>
 
       <div className='container contact_container'>
         <div className='contact_options'>
           <article className='contact_option'>
             <GrMailOption className='contact_option-icon'/>
-            <h4>Email</h4>
+            <h4>Email:</h4>
             <h5>perezoscar360@gmail.com</h5>
-            <a href='mailto:perezoscar360@gmail.com' target='_blank'>Send An Email </a>
+            <a href='mailto:perezoscar360@gmail.com' target='_blank'>Send An Email  </a><FiSend/>
           </article>
           <article className='contact_option'>
             <AiOutlineMessage className='contact_option-icon'/>
-            <h4>Messenger</h4>
+            <h4>Messenger:</h4>
             <h5>LinkedIn</h5>
-            <a href='https://www.linkedin.com/in/oscar-perez~hernandez/' target='_blank'>Send A Message</a>
+            <a href='https://www.linkedin.com/in/oscar-perez~hernandez/' target='_blank'>Send A Message</a> <AiOutlineSend/>
           </article>
           <article className='contact_option'>
             <BsGithub className='contact_option-icon'/>
-            <h4>Github</h4>
+            <h4>Github:</h4>
             {/*  */}
             <a href='https://github.com/LilOTechGod' target='_blank'>View GitHub</a>
           </article>

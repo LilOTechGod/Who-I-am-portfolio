@@ -1,11 +1,11 @@
 .portfolio_container {
-    display: grid;
+    display: inline-grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2.5rem;
 }
 
 .portfolio_item {
-    background: var(--color-bg-variant);
+    background: white;
     padding: 1.2rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -13,8 +13,7 @@
 }
 
 .portfolio_item:hover {
-    border-color: var(--color-primary-variant);
-    background: transparent;
+    border:3.5px solid green;
 }
 
 .portfolio_item-image {
@@ -24,6 +23,7 @@
 
 .portfolio_item h3 {
     margin: 1.2rem 0 2rem;
+    color: green;
 }
 
 .portfolio_item-cta {
@@ -44,6 +44,5 @@
   @media screen and (max-width: 600px) {
     .portfolio_container {
         grid-template-columns: 1fr;
-        gap: 1rem;
     }
 }
