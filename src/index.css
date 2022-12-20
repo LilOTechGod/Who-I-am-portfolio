@@ -122,8 +122,9 @@ img {
     }
 
     section {
-        margin-top: 6rem;
         font-size: 19px;
+        margin: 6.5rem 3rem 2rem;
+        width: 100%;
     }
 };
 

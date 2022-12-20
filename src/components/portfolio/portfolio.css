@@ -2,6 +2,7 @@
     display: inline-grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2.5rem;
+    margin: 0rem 2rem;
 }
 
 .portfolio_item {
@@ -44,5 +45,10 @@
   @media screen and (max-width: 600px) {
     .portfolio_container {
         grid-template-columns: 1fr;
+        margin: 0rem 3rem 0rem -2.5rem;
+    }
+
+    footer {
+        width: 100%;
     }
 }

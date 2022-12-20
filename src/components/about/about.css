@@ -17,6 +17,8 @@
     display:grid;
     place-items: center;
     height: 370px;
+    margin-left: 40px;
+    margin-top: 40px;
 }
 
 .about__me-image {
@@ -34,6 +36,7 @@ transform: rotate(0);
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
+    margin: 1rem 2rem 2rem 0rem;
 }
 
 .about__card {
@@ -67,14 +70,20 @@ transform: rotate(0);
 }
 
 .about__content p {
-    margin: 2rem 0 2.6rem;
+    margin: 2rem 2rem 2rem 0rem;
     color: rgb(124, 98, 98);
+    font-size: large;
 }
 
 #about 
 h3,
 h1 {
     color: rgb(124, 98, 98);
+    text-align: center;
+}
+
+.about__card h4 {
+    color: green;
 }
 
 /*====================== media queries (md devices ==========*/
@@ -83,11 +92,12 @@ h1 {
     grid-template-columns: 1fr;
     gap: 0;
     margin-top: 20px;
+    margin-left: -1rem;
    }
 
    .about__me {
     width: 70%;
-    height: 61%;
+    height: 62%;
     margin: 2rem auto 5rem;
    }
 
@@ -105,9 +115,9 @@ h1 {
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     .about__me {
-        width: 100%;
-        margin: 0 auto 3rem;
-        height: 68%;
+        width: 94%;
+        margin: 1.3rem 0rem 0rem 0rem;
+        height: 73%;
     }
 
     .about__cards {
@@ -120,6 +130,7 @@ h1 {
     }
 
     .about__content p {
-        margin: 1.5rem 0;
+        margin: 1.5rem 2.5rem 2rem 0rem;
+        font-size: 25px;
     }
 }
