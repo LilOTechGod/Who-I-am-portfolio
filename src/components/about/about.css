@@ -37,6 +37,8 @@ transform: rotate(0);
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
     margin: 1rem 2rem 2rem 0rem;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .about__card {
@@ -72,7 +74,7 @@ transform: rotate(0);
 .about__content p {
     margin: 2rem 2rem 2rem 0rem;
     color: rgb(124, 98, 98);
-    font-size: large;
+    font-size: 40px;
 }
 
 #about 
@@ -86,36 +88,49 @@ h1 {
     color: green;
 }
 
+#bigBtn1 {
+    font-size: 22px;
+    position: relative;
+    left: 270px;
+}
+
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
    .about__container {
     grid-template-columns: 1fr;
     gap: 0;
-    margin-top: 20px;
-    margin-left: -1rem;
+    margin: 15px 0rem 0rem 2.8rem
    }
 
    .about__me {
     width: 70%;
     height: 62%;
-    margin: 2rem auto 5rem;
+    margin: 5.3rem 0 -4rem 5.2rem;
    }
 
-   .about__content p {
+   /* .about__content p {
     margin: 1rem 0 1.5rem;
+   } */
+
+   .subtitle {
+    text-align: center;
+    margin-top: 5rem;
    }
 
-   #about 
-   h3,
-   h1   {
-    text-align: center;
+   .subtitle h3{
+    font-size: 27px;
    }
+
+   .subtitle h1{
+    font-size: 49px;
+   }
+
 }
 
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     .about__me {
-        width: 94%;
+        width: 90%;
         margin: 1.3rem 0rem 0rem 0rem;
         height: 73%;
     }
@@ -123,6 +138,8 @@ h1 {
     .about__cards {
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
+        font-size: 19px;
+        font-weight: bold;
     }
 
     .about__content {
@@ -130,7 +147,25 @@ h1 {
     }
 
     .about__content p {
-        margin: 1.5rem 0rem 2rem 0rem;
         font-size: 25px;
     }
+
+    .subtitle {
+        position: relative;
+        left: 20px;
+        margin-top: 4rem;
+       }
+
+       .subtitle h3{
+        font-size: 20px;
+       }
+
+       .subtitle h1{
+        font-size: 39px;
+       }
+
+       #bigBtn1 {
+        position: relative;
+        left: -23px;
+       }
 }

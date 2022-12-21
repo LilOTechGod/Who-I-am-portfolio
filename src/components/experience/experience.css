@@ -22,7 +22,9 @@
 .experience__container > div h3, h4 {
     text-align: center;
     margin-bottom: 2rem;   
-    color: white
+    color: white;
+    font-size: 28.5px;
+    font-weight: bold;
 }
 
 .experience__content {
@@ -39,10 +41,15 @@
 .experience__details-icon {
     margin-top: 6px;
     color:white;
+    font-size: 35px;
 }
 
 .text-light {
     color:white
+}
+
+div small {
+    font-size: 19.5px;
 }
 
 /*====================== media queries (md devices ==========*/
@@ -60,17 +67,25 @@
    .experience__content {
     padding: 1rem;
    }
+
+   .title {
+    text-align: center;
+    margin-top: 1rem;
+   }
+
  }
  
  /*====================== media queries (sm devices ==========*/
  @media screen and (max-width: 600px) {
     .experience__container {
         gap: 1.5rem;
-        margin: -1.9rem;
+        margin: 0.5rem 0rem 0rem 1.8rem;
     }
 
     .experience__container > div {
         width: 100%;
-        padding: 2rem 1rem;
+        padding: 1rem 0.4rem;
     }
- }
+
+    
+}

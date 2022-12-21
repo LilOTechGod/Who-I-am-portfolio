@@ -2,7 +2,7 @@ footer {
     background: green;
     padding: 3rem 0;
     text-align: center;
-    font-size: 0.9rem;
+    font-size: 1.4rem;
     margin-top: 7rem;
     border-top: 3.5px solid white;
 }
@@ -16,8 +16,8 @@ footer a:hover {
 }
 
 .footer_logo {
-    font-size: 2rem;
-    font-size: 500;
+    font-size: 2.2rem;
+    font-weight: 600;
     margin-bottom: 2rem;
     display: inline-block;
 }
@@ -41,7 +41,8 @@ footer a:hover {
     }
 
     footer {
-       margin: 0rem 1.9rem;
+       margin: 0rem 0rem 0% 2.5rem;
+       width: 100%
     }
 }
 

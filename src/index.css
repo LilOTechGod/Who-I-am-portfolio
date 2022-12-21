@@ -50,22 +50,11 @@ body {
     margin: 0 auto;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5{
-    font-weight: 500;
-    font-size: 20px;
-}
 
 h1 {
     font-size: 2.5rem;
 }
 
-section {
-    margin-top: 8rem;
-}
 
 section > h2, 
 section > h5 {
@@ -96,6 +85,7 @@ a:hover {
     cursor: pointer;
     border: 3.5px solid green;
     transition: var(--tranistion);
+    font-weight: bold;
 }
 
 .btn:hover {
@@ -116,16 +106,17 @@ img {
 
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
-    .container{
+    /* .container{
         width: var(--container-width-md);
         font-size: 22px;
-    }
+    } */
 
-    section {
+    /* section {
         font-size: 19px;
-        margin: 4.5rem 0rem 0rem 3.8rem;
+        margin: 4rem 0rem 0rem 3.5rem;
         width: 100%;
-    }
+    } */
+
 };
 
 /*====================== media queries (sm devices ==========*/

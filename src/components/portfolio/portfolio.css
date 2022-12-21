@@ -25,12 +25,14 @@
 .portfolio_item h3 {
     margin: 1.2rem 0 2rem;
     color: green;
+    font-size: 30px;
 }
 
 .portfolio_item-cta {
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    font-size: 19px;
 }
 
 /*====================== media queries (md devices ==========*/
@@ -45,7 +47,8 @@
   @media screen and (max-width: 600px) {
     .portfolio_container {
         grid-template-columns: 1fr;
-        margin: 0rem 3rem 0rem -2.5rem;
+        margin: 0.5rem -2.5rem 0rem 2rem;
+        gap: 2rem
     }
 
     footer {

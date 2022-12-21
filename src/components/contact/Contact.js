@@ -21,13 +21,15 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h1>Get In Touch</h1>
-      <h2>Contact Me</h2>
+      <div className='subtitle'>
+        <h1>Get In Touch</h1>
+        <h2>Contact Me</h2>
+      </div>
 
       <div className='container contact_container'>
         <div className='contact_options'>
           <article className='contact_option'>
-            <GrMailOption className='contact_option-icon'/>
+            <GrMailOption className='contact_option-icon' id="greenIcon"/>
             <h4>Email:</h4>
             <h5>perezoscar360@gmail.com</h5>
             <a href='mailto:perezoscar360@gmail.com' target='_blank'>Send An Email  </a><FiSend/>
@@ -44,15 +46,18 @@ const Contact = () => {
             <a href='https://github.com/LilOTechGod' target='_blank'>View GitHub</a><CiViewTimeline/>
           </article>
         </div>
+        </div>
         {/* End of contact options */}
         
         <form ref={form} onSubmit={sendEmail}>
           <input type='text' name='name' placeholder='Your Full Name' required />
           <input type='email' name='email' placeholder='Your Email' required />
           <textarea name='message' rows='7' placeholder='Your Message' required ></textarea>
-          <button type='submit' className='btn btn-primary'>Send</button>
+          <div className='title'>
+            <button type='submit' className='btn btn-primary' id="bigSend">Send</button>
+          </div>
         </form>
-      </div>
+      
     </section>
   )
 }
