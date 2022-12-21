@@ -88,8 +88,8 @@ header {
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     header {
-        height: 111vh;
-        margin: 1rem 1.5rem 2rem;
+        height: 110vh;
+        margin: 1rem 0rem 0em 1rem;
         font-size: 19px;
         width: 100%;
 }
