@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
-    margin: 0rem 2rem;
+    margin: 0rem 2rem 2rem 2rem;
 }
 
 .service {
@@ -71,6 +71,8 @@
         .services_container {
             grid-template-columns: 1fr;
             gap: 1.5rem;
-            margin: 0.5rem -2rem 0 2.9rem;
+            width: 120%;
+            align-items: center;
+            justify-content: center;
         }
 }
