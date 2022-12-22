@@ -40,6 +40,7 @@
     .portfolio_container {
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
+        width: 98%;
     }
 }
   
@@ -48,7 +49,7 @@
     .portfolio_container {
         grid-template-columns: 1fr;
         gap: 2rem;
-        width: 113%;
+        width: 127%;
         align-items: center;
         justify-content: center;
     }

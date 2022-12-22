@@ -98,30 +98,45 @@ h1 {
    .about__container {
     grid-template-columns: 1fr;
     gap: 0;
-    margin: 15px 0rem 0rem 2.8rem
+    margin: 15px 0rem 0rem 2.8rem;
+    width: 102%;
    }
 
    .about__me {
-    width: 70%;
+    width: 61%;
     height: 62%;
-    margin: 5.3rem 0 -4rem 5.2rem;
+    margin: 5.3rem 0 -4rem 9rem;
    }
 
-   /* .about__content p {
-    margin: 1rem 0 1.5rem;
-   } */
+   .about__content p {
+    font-size: 33px;
+   }
 
    .subtitle {
     text-align: center;
     margin-top: 5rem;
+    width: 108%;
    }
 
    .subtitle h3{
-    font-size: 27px;
+    font-size: 30px;
    }
 
    .subtitle h1{
-    font-size: 49px;
+    font-size: 50px;
+   }
+
+   .about__card h4 {
+    font-size: 29px;
+   }
+
+   .about__card small {
+    font-size: 20px;
+   }
+
+   #bigBtn1 {
+    position: relative;
+    left: 300px;
    }
 
 }
@@ -129,13 +144,13 @@ h1 {
 /*====================== media queries (sm devices ==========*/
 @media screen and (max-width: 600px) {
     .about__me {
-        width: 90%;
-        margin: 1.3rem 0rem 0rem 0rem;
+        width: 84%;
+        margin: 1.3rem 0rem 0rem 2rem;
         height: 73%;
     }
 
     .about__container {
-        width: 125%;
+        width: 136%;
         align-items: center;
         justify-content: center;
     }
@@ -156,7 +171,7 @@ h1 {
     }
 
     .subtitle {
-        width: 137%;
+        width: 151%;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -173,5 +188,13 @@ h1 {
        #bigBtn1 {
         position: relative;
         left: -23px;
+       }
+
+       .about__card h4 {
+        font-size: 24px;
+       }
+    
+       .about__card small {
+        font-size: 17px;
        }
 }

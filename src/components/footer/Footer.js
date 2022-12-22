@@ -3,6 +3,7 @@ import './footer.css'
 
 const Footer = () => {
   return (
+    <div className='fullFooter'>
     <footer>
       <a href='#' className='footer_logo'>Oscar Perez~Hernandez</a>
 
@@ -27,6 +28,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
       </div>
 
     </footer>
+    </div>
   )
 }
 

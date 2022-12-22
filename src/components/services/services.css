@@ -59,10 +59,24 @@
 @media screen and (max-width: 1024px) {
     .services_container {
         grid-template-columns: 1fr 1fr;
+        width: 101%;
     }
 
     .service {
         height: auto;
+    }
+
+    .service_list li {
+        font-size: 40px;
+    }
+
+    .service_list p {
+        font-size: 35px;
+        font-weight: 500;
+    }
+
+    .service_head h3 {
+        font-size: 39px;
     }
 }
   
@@ -71,7 +85,7 @@
         .services_container {
             grid-template-columns: 1fr;
             gap: 1.5rem;
-            width: 120%;
+            width: 136%;
             align-items: center;
             justify-content: center;
         }

@@ -32,6 +32,7 @@ footer a:hover {
 
 .footer_copyright h5 {
     color: white;
+    padding: 0px 12px;
 }
 
 @media screen and (max-width: 600px) {
@@ -42,7 +43,17 @@ footer a:hover {
 
     footer {
         margin: 0rem 0rem 0% 0rem;
-        width: 137%;
+        width: 140%;
     }
 }
 
+@media screen and (max-width: 1024px) {
+    .fullFooter {
+        width: 108%;
+    }
+
+    footer a {
+        position: relative;
+        left: 10px;
+    }
+}

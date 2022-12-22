@@ -46,6 +46,7 @@ const About = () => {
           </p>
 
           <a href='#contact' className='btn btn-primary' id="bigBtn1">Let's Connect!</a>
+          
         </div>
       </div>
     </section>
