@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/Screenshot_20221123_023856.png'
 import IMG2 from '../../assets/project3.png'
 import IMG3 from '../../assets/Screenshot_20221123_023336.png'
-import IMG4 from '../../assets/Screenshot_20221219_030135.png'
+import IMG4 from '../../assets/imgezbookkeeping.png'
 
 const Portfolio = () => {
   return (
@@ -49,13 +49,13 @@ const Portfolio = () => {
         </article>
 
         <article className='portfolio_item'>
-          <h3>O's Tech Blog</h3>
+          <h3>EZ Bookkeeping</h3>
           <div className='portfolio_item-image'>
             <img src={IMG4} alt='' />
           </div>
           <div className='portfolio_item-cta'>
-            <a href='https://github.com/LilOTechGod/Tech-blog' className='btn' target='_blank'>GitHub Repo</a>
-            <a href='https://oscars-tech-blog.herokuapp.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com/LilOTechGod/Ez-Bookkeeping' className='btn' target='_blank'>GitHub Repo</a>
+            <a href='https://ez-bookkeeping-57eaced69b66.herokuapp.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 

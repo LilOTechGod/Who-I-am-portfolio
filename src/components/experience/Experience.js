@@ -50,7 +50,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Third-party APIs</h4>
+                <h4>HTTP Request</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -58,7 +58,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Server-side APIs</h4>
+                <h4>Event Driven Programming</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -98,15 +98,15 @@ const Experience = () => {
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>MySQL</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>ORM</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>TDD</h4>
+                <small className='text-light'>Compromise</small>
               </div>
             </article>
 
@@ -128,15 +128,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Computer Science</h4>
-                <small className='text-light'>Compromise</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <AiOutlineCheckCircle className='experience__details-icon'/>
-              <div>
-                <h4>NoSQL</h4>
+                <h4>Cryptography</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -144,15 +136,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>PWA</h4>
-                <small className='text-light'>Compromise</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <AiOutlineCheckCircle className='experience__details-icon'/>
-              <div>
-                <h4>React</h4>
+                <h4>Database</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -160,7 +144,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>MERN</h4>
+                <h4>QA Process</h4>
                 <small className='text-light'>Compromise</small>
               </div>
             </article>
@@ -168,7 +152,23 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>State</h4>
+                <h4>AWS/HEROKU</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <AiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>MERN Apps</h4>
+                <small className='text-light'>Compromise</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <AiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>Agile Methodology</h4>
                 <small className='text-light'>Compromise</small>
               </div>
             </article>
