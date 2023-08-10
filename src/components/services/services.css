@@ -58,8 +58,9 @@
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
     .services_container {
-        grid-template-columns: 1fr 1fr;
-        width: 101%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 
     .service {

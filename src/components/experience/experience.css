@@ -35,7 +35,6 @@
 
 .experience__details {
     display: flex;
-    gap: 1rem;
 }
 
 .experience__details-icon {
@@ -57,11 +56,16 @@ div small {
     text-align: center;
 }
 
+.techTitle {
+    border-bottom: 3px solid white;
+}
+
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
    .experience__container {
     grid-template-columns: 1fr;
-    width: 98%;
+    width:100%;
+    margin: 0;
    }
 
    .experience__container > div {
@@ -71,7 +75,7 @@ div small {
    }
 
    .experience__content {
-    padding: 1rem;
+
    }
 
    .title {
@@ -84,7 +88,7 @@ div small {
 }
 
     .experience__details h4 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .experience__details small {

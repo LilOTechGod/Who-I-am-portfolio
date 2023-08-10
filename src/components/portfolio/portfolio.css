@@ -38,9 +38,16 @@
 /*====================== media queries (md devices ==========*/
 @media screen and (max-width: 1024px) {
     .portfolio_container {
-        grid-template-columns: 1fr 1fr;
-        gap: 1.2rem;
-        width: 98%;
+        gap: .1rem;
+        width: 100%;
+        margin: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .portfolio_item {
+        margin: 5px;
     }
 }
   

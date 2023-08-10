@@ -1,5 +1,5 @@
 footer {
-    background: green;
+    background: #006a00;
     padding: 3rem 0;
     text-align: center;
     font-size: 1.4rem;
@@ -26,7 +26,7 @@ footer a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 2rem;
+    gap: 1.5rem;
     margin: 0 auto 3rem;
 }
 
@@ -49,7 +49,7 @@ footer a:hover {
 
 @media screen and (max-width: 1024px) {
     .fullFooter {
-        width: 108%;
+        width: 100%;
     }
 
     footer a {
