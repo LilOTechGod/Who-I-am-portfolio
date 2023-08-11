@@ -102,13 +102,13 @@ form button {
  /*====================== media queries (sm devices ==========*/
  @media screen and (max-width: 600px) {
     .container.contact_container {
-        width: 152%;
+        width: 100%;
         justify-content: center;
         align-items: center;
     }
 
     form {
-        width: 131%;
+        width: 100%;
         justify-content: center;
         align-items: center;
     }
@@ -117,4 +117,12 @@ form button {
         margin-bottom: 25px;
     }
 
+    .contact_options {
+        display:block;
+        gap:1rem;
+    }
+
+    .contact_option {
+        margin: 7px;
+    }
 }

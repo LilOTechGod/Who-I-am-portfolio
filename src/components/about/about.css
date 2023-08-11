@@ -148,7 +148,6 @@ h1 {
     }
 
     .about__container {
-        width: 136%;
         align-items: center;
         justify-content: center;
     }
@@ -162,6 +161,7 @@ h1 {
 
     .about__content {
         text-align: center;
+        margin: 0;
     }
 
     .about__content p {
@@ -169,7 +169,7 @@ h1 {
     }
 
     .subtitle {
-        width: 151%;
+        width: 100%;
         justify-content: center;
         align-items: center;
         text-align: center;

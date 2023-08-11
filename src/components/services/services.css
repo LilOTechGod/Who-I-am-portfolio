@@ -86,8 +86,18 @@
         .services_container {
             grid-template-columns: 1fr;
             gap: 1.5rem;
-            width: 136%;
+            width: 100%;
             align-items: center;
             justify-content: center;
+            margin: 0;
+            padding: 1rem;
+        }
+
+        .service_list p {
+            font-size: 19px;
+        }
+
+        .service_list li {
+            font-size: 21px;
         }
 }

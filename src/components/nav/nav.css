@@ -16,7 +16,7 @@ nav {
 
 nav a {
     background: transparent;
-    padding: 0.9rem;
+    padding: 5px;
     border-radius: 50%;
     display: flex;
     color: white;
@@ -33,5 +33,13 @@ nav a.avtive{
 }
 
 @media screen and (max-width: 600px) {
-    
+    nav {
+        left: 50%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    nav a {
+        font-size: 1.2rem;
+    }
 }
