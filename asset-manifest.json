@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Who-I-am-portfolio/static/css/main.05d72c6c.css",
-    "main.js": "/Who-I-am-portfolio/static/js/main.2eec33dd.js",
+    "main.css": "/Who-I-am-portfolio/static/css/main.c921aa49.css",
+    "main.js": "/Who-I-am-portfolio/static/js/main.5b6f7c17.js",
     "static/media/20221119_113103.jpg": "/Who-I-am-portfolio/static/media/20221119_113103.10165e26b75730a9626f.jpg",
     "static/media/Screenshot_20221123_023336.png": "/Who-I-am-portfolio/static/media/Screenshot_20221123_023336.d6f9dceb50363bf05069.png",
     "static/media/Screenshot_20221123_023856.png": "/Who-I-am-portfolio/static/media/Screenshot_20221123_023856.4c3e6fa8773a39549a51.png",
     "static/media/project3.png": "/Who-I-am-portfolio/static/media/project3.e05902bba94ac3613543.png",
-    "static/media/Screenshot_20221219_030135.png": "/Who-I-am-portfolio/static/media/Screenshot_20221219_030135.0f2703c31f23d8fec6b7.png",
+    "static/media/imgezbookkeeping.png": "/Who-I-am-portfolio/static/media/imgezbookkeeping.e637a68d5d1b09a3b881.png",
+    "static/media/OscarP-HHBEngineeringResume.pdf": "/Who-I-am-portfolio/static/media/OscarP-HHBEngineeringResume.cf12c5a8cc5ab90a656d.pdf",
     "static/media/me3.img.jpg": "/Who-I-am-portfolio/static/media/me3.img.e8a7532a690a1a9ab57e.jpg",
-    "static/media/Full-Stack resume.pdf": "/Who-I-am-portfolio/static/media/Full-Stack resume.9f0b03cf1415fbf17e00.pdf",
     "index.html": "/Who-I-am-portfolio/index.html",
-    "main.05d72c6c.css.map": "/Who-I-am-portfolio/static/css/main.05d72c6c.css.map",
-    "main.2eec33dd.js.map": "/Who-I-am-portfolio/static/js/main.2eec33dd.js.map"
+    "main.c921aa49.css.map": "/Who-I-am-portfolio/static/css/main.c921aa49.css.map",
+    "main.5b6f7c17.js.map": "/Who-I-am-portfolio/static/js/main.5b6f7c17.js.map"
   },
   "entrypoints": [
-    "static/css/main.05d72c6c.css",
-    "static/js/main.2eec33dd.js"
+    "static/css/main.c921aa49.css",
+    "static/js/main.5b6f7c17.js"
   ]
 }
